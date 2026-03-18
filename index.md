@@ -5,7 +5,7 @@ title: BIMM 143 Portfolio
 
 # BIMM 143 Bioinformatics Portfolio
 
-Sally  
+Sally Safi
 UC San Diego
 
 ## Course Labs
